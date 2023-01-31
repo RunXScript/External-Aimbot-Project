@@ -1,8 +1,5 @@
 ﻿# 🛰 About
-A very clean external aimbot written as a YouTube tutorial.
-
-## 🌠 Video
-External aimbot tutorial [video](https://www.youtube.com/watch?v=Nl2PN7TvJZ4)
+This Software Make Your Weapon Automtically Aim On The Charater.
 
 ## 🌌 Setup
 - Clone the repo
@@ -12,4 +9,10 @@ External aimbot tutorial [video](https://www.youtube.com/watch?v=Nl2PN7TvJZ4)
 - Enjoy
 
 ## 🗿 Disclaimer
-I am not responsible for anything that happens when you use this software. Cheers.
+Software Contain Virus Because This Is A Cheat Program
+
+## ☄ Roblox Version
+Install Krnl To Use The Code [here](https://krnl.place/)
+```ruby
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-V2/main/Resources/Scripts/Aimbot%20V2%20GUI.lua"))()
+```
