@@ -1,22 +1,15 @@
+﻿# 🛰 About
+A very clean external aimbot written as a YouTube tutorial.
 
-# CSGO Version
------------
-# 🛰 About
-This Program Allow Your Weapon Aimed Automatically
+## 🌠 Video
+External aimbot tutorial [video](https://www.youtube.com/watch?v=Nl2PN7TvJZ4)
 
-And This Program Allow To Lock Chararter You Can Be Risked On VAC
+## 🌌 Setup
+- Clone the repo
+- Change the aimbot key to your desired key
+- Build in Release | x86
+- Run when CS:GO is open
+- Enjoy
 
-# 🌌 Setup
-Not Put Something Here Yet
-
-# 🗿 Disclamer
-Software Can Be A Virus Make Sure To Enable Protention All The Time
-
-----------
-
-# Roblox Version
-Load the script by copying or by executing the code below.
-
-```ruby
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-V2/main/Resources/Scripts/Aimbot%20V2%20GUI.lua"))()
-```
+## 🗿 Disclaimer
+I am not responsible for anything that happens when you use this software. Cheers.
