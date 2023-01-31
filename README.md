@@ -15,6 +15,8 @@ Software Contain Virus Because This Is A Cheat Program
 
 ## ☄ Roblox Version
 Install Krnl To Use The Code [here](https://krnl.place/)
+
+Play Roblox Here [Roblox](https://roblox.com/)
 ```ruby
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-V2/main/Resources/Scripts/Aimbot%20V2%20GUI.lua"))()
 ```
