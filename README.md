@@ -1,5 +1,3 @@
-![Project](https://user-images.githubusercontent.com/111554608/215730027-845b40ba-9a50-4300-8b49-b09a1a35307d.png)
-
 # 🛰 About
 This Software Make Your Weapon Automtically Aim On The Charater.
 
@@ -16,7 +14,8 @@ Software Contain Virus Because This Is A Cheat Program
 ## ☄ Roblox Version
 Install Krnl To Use The Code [here](https://krnl.place/)
 
-Play Roblox Here [Roblox](https://roblox.com/)
 ```ruby
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Exunys/Aimbot-V2/main/Resources/Scripts/Aimbot%20V2%20GUI.lua"))()
 ```
+
+![Discord_white](https://user-images.githubusercontent.com/111554608/215731589-2e9db38f-dffc-4e5c-9e6c-3939fd08c0a4.png)................![Gmail_white](https://user-images.githubusercontent.com/111554608/215731785-0c7d93de-8de0-4120-afdd-d5664796e181.png)
